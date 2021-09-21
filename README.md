@@ -3,6 +3,4 @@ Hello everyone,
 
 This is simple webpage
 
-#Taphere
-
-https://anu-fasmin.github.io/computer/ 
+Tap here -https://anu-fasmin.github.io/computer/ 
